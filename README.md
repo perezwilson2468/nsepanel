@@ -3,7 +3,7 @@
 [![Trakteer](https://img.shields.io/badge/Support%20on-Trakteer-red?style=for-the-badge)](https://trakteer.id/theforgotten/tip)
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/Randomideax)
 
-A cross-platform automation panel for Ninja Saga & Sage games.
+A cross-platform automation panel for Ninja Saga , Sage games, Ninja Rift and Shinobi Warfare(WIP).
 Available as a **Desktop App** (Windows) and an **Android App**.
 Serve as it is
 
