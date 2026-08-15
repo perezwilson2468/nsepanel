@@ -1,0 +1,6 @@
+                        <button class="action-btn" onclick="showEnemySelection('pumpkin')">🎃 Fight Pumpkin Event</button>                       <button class="action-btn" onclick="showEnemySelection('yinyang')">☯️ Fight Yin Yang Event</button>                       <button class="action-btn" onclick="startAction('event_finisher')">🏁 Event Finisher</button>                       <button class="action-btn" onclick="startAction('shadow_war')">⚔️ Shadow War</button>                       <button class="action-btn" onclick="startAction('cd_event')">⚡ Fight CD Event Boss</button>
+                       <div class="tab" onclick="switchLogTab('battle')">Battle Log</div>
+<button class="action-btn" onclick="showEnemySelection('thanks')">🦃 Fight Thanksgiving Event</button>
+                        <button class="action-btn" onclick="startAction('phantom')">👻 Fight Phantom Kyunoki</button>
+
+python -m nuitka --standalone --onefile --follow-imports --include-package=fastapi --include-package=starlette --include-package=uvicorn --include-package=jinja2 --include-package=anyio --include-package=pydantic --include-package=webview --include-package=core --include-data-dir=templates=templates --include-data-dir=static=static --include-data-dir=data=data desktop_app.py
