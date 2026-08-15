@@ -5,7 +5,7 @@
 
 A cross-platform automation panel for Ninja Saga , Sage games, Ninja Rift and Shinobi Warfare(WIP).
 Available as a **Desktop App** (Windows) and an **Android App**.
-Serve as it is
+Serve as it is. The developer is not responsible for what you may experience if you use the panel.
 
 ---
 
